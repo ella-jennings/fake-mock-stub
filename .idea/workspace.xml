@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c2448d-8360-4050-b2ab-a9be0799744c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/Exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise3/Exercise3.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +42,76 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise1/src/exercise1/src/CoffeeGrinder.java">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" selection-start-line="4" selection-end-line="5" />
+              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,6 +121,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,6 +141,14 @@
         <option value="$PROJECT_DIR$/Exercise2/src/exercise2/Login.java" />
         <option value="$PROJECT_DIR$/Exercise2/src/test/LoginTest.java" />
         <option value="$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/UserInfo.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java" />
+        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java" />
       </list>
     </option>
   </component>
@@ -109,6 +182,13 @@
               <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="2-fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2-fake-mock-stub" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +202,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550509845404" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550512390073" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -133,6 +213,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="exercise2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Exercise1/src/java/src" />
@@ -151,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTestAnswer.LoggedOutUserIsLoggedIn">
+  <component name="RunManager" selected="JUnit.UserInfoTestsAnswer">
     <configuration name="CoffeeMakerTestsAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercise1" />
       <extension name="coverage">
@@ -177,22 +260,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="exercise1.test" />
       <option name="MAIN_CLASS_NAME" value="exercise1.test.CoffeeMakerTestsAnswer" />
-      <option name="METHOD_NAME" value="MakeCoffee_ShouldCallGrindBeans" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoffeeMakerTestsAnswer.MakeCoffee_ShouldCallGrindBeans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercise1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java.test" />
-      <option name="MAIN_CLASS_NAME" value="java.test.CoffeeMakerTestsAnswer" />
       <option name="METHOD_NAME" value="MakeCoffee_ShouldCallGrindBeans" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -230,13 +297,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserInfoTestsAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercise3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.UserInfoTestsAnswer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserInfoTestsAnswer" />
         <item itemvalue="JUnit.LoginTestAnswer.LoggedOutUserIsLoggedIn" />
         <item itemvalue="JUnit.LoginTestAnswer" />
         <item itemvalue="JUnit.CoffeeMakerTestsAnswer" />
         <item itemvalue="JUnit.CoffeeMakerTestsAnswer.MakeCoffee_ShouldCallGrindBeans (1)" />
-        <item itemvalue="JUnit.CoffeeMakerTestsAnswer.MakeCoffee_ShouldCallGrindBeans" />
       </list>
     </recent_temporary>
   </component>
@@ -250,20 +332,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550505642869</updated>
-      <workItem from="1550505644163" duration="3475000" />
+      <workItem from="1550505644163" duration="5358000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 31m 03s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer - 2019.02.18 at 22h 32m 22s.xml">
-      <configuration name="LoginTestAnswer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 34m 34s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 34m 41s.xml">
       <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
     </history-entry>
@@ -285,9 +358,18 @@
     <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 39m 50s.xml">
       <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 40m 47s.xml">
+      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserInfoTestsAnswer - 2019.02.18 at 23h 16m 16s.xml">
+      <configuration name="UserInfoTestsAnswer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserInfoTestsAnswer - 2019.02.18 at 23h 19m 25s.xml">
+      <configuration name="UserInfoTestsAnswer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3475000" />
+    <option name="totallyTimeSpent" value="5358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -298,7 +380,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32959184" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -308,7 +390,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,6 +497,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
