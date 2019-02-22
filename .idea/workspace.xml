@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c2448d-8360-4050-b2ab-a9be0799744c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2-fake-mock-stub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fake-mock-stub.iml" afterDir="false" />
+    <list default="true" id="3e093996-76f0-4fe0-b0f3-5ccfb8b8c030" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_all_1_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_all_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/Exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/src/exercise1/src/CoffeeGrinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/CoffeeGrinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/src/exercise1/src/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/src/exercise1/src/CoffeeMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/src/exercise1/test/CoffeeMakerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise1Test/CoffeeMakerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1/src/exercise1/test/CoffeeMakerTestsAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise1Test/CoffeeMakerTestsAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/Exercise2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/src/exercise2/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/src/exercise2/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise2/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/src/test/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise2Test/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise2Test/LoginTestAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/Exercise3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise3/IRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise3/UserInfoGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise3/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise3Test/FakeUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise3Test/FakeUserRepositoryAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise3Test/UserInfoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise3Test/UserInfoTestsAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fake-mock-stub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fake-mock-stub.iml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,57 +40,105 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fake-mock-stub" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fake-mock-stub" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fake-mock-stub" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fake-mock-stub" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fake-mock-stub" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="junit:junit:4.12" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/CoffeeGrinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Exercise1Test/CoffeeMakerTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fake-mock-stub.iml">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,97 +146,85 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercise1/src/test/test.java" />
-        <option value="$PROJECT_DIR$/Exercise1/src/java/src/CoffeeGrinder.java" />
-        <option value="$PROJECT_DIR$/Exercise1/src/java/test/CoffeeMakerTestsAnswer.java" />
-        <option value="$PROJECT_DIR$/Exercise1/src/exercise1/test/CoffeeMakerTestsAnswer.java" />
-        <option value="$PROJECT_DIR$/Exercise1/src/exercise1/test/CoffeeMakerTests.java" />
-        <option value="$PROJECT_DIR$/Exercise2/src/exercise2/UserValidator.java" />
-        <option value="$PROJECT_DIR$/Exercise2/src/exercise2/Login.java" />
-        <option value="$PROJECT_DIR$/Exercise2/src/test/LoginTest.java" />
-        <option value="$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/UserInfo.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java" />
-        <option value="$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMaker.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/Exercise1Test/CoffeeMakerTests.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="2-fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-fake-mock-stub" type="462c0819:PsiDirectoryNode" />
+              <item name="fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fake-mock-stub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="2-fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-fake-mock-stub" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2-fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-fake-mock-stub" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fake-mock-stub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="2-fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2-fake-mock-stub" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fake-mock-stub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fake-mock-stub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fake-mock-stub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="fake-mock-stub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fake-mock-stub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550594017793" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550822417521" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="exercise2" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Exercise1/src/java/src" />
-      <recent name="$PROJECT_DIR$/Exercise1" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Exercise3Test" />
+      <recent name="$PROJECT_DIR$/src/main/java/Exercise3" />
+      <recent name="$PROJECT_DIR$/src/test/java/Exercise2Test" />
+      <recent name="$PROJECT_DIR$/src/main/java/Exercise2" />
+      <recent name="$PROJECT_DIR$/src/test/java/Exercise1Test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,352 +239,133 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserInfoTestsAnswer">
-    <configuration name="CoffeeMakerTestsAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercise1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise1.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise1.test" />
-      <option name="MAIN_CLASS_NAME" value="exercise1.test.CoffeeMakerTestsAnswer" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoffeeMakerTestsAnswer.MakeCoffee_ShouldCallGrindBeans (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercise1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise1.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise1.test" />
-      <option name="MAIN_CLASS_NAME" value="exercise1.test.CoffeeMakerTestsAnswer" />
-      <option name="METHOD_NAME" value="MakeCoffee_ShouldCallGrindBeans" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercise2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.LoginTestAnswer" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercise2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.LoginTestAnswer" />
-      <option name="METHOD_NAME" value="LoggedOutUserIsLoggedIn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserInfoTestsAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercise3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.UserInfoTestsAnswer" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.UserInfoTestsAnswer" />
-        <item itemvalue="JUnit.LoginTestAnswer.LoggedOutUserIsLoggedIn" />
-        <item itemvalue="JUnit.LoginTestAnswer" />
-        <item itemvalue="JUnit.CoffeeMakerTestsAnswer" />
-        <item itemvalue="JUnit.CoffeeMakerTestsAnswer.MakeCoffee_ShouldCallGrindBeans (1)" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3c2448d-8360-4050-b2ab-a9be0799744c" name="Default Changelist" comment="" />
-      <created>1550505642869</created>
+      <changelist id="3e093996-76f0-4fe0-b0f3-5ccfb8b8c030" name="Default Changelist" comment="" />
+      <created>1550821658722</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550505642869</updated>
-      <workItem from="1550505644163" duration="5358000" />
+      <updated>1550821658722</updated>
+      <workItem from="1550821660034" duration="456000" />
+      <workItem from="1550822159646" duration="256000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 34m 41s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 35m 06s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer - 2019.02.18 at 22h 38m 28s.xml">
-      <configuration name="LoginTestAnswer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 39m 15s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 39m 26s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 39m 34s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 39m 50s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTestAnswer_LoggedOutUserIsLoggedIn - 2019.02.18 at 22h 40m 47s.xml">
-      <configuration name="LoginTestAnswer.LoggedOutUserIsLoggedIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserInfoTestsAnswer - 2019.02.18 at 23h 16m 16s.xml">
-      <configuration name="UserInfoTestsAnswer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserInfoTestsAnswer - 2019.02.18 at 23h 19m 25s.xml">
-      <configuration name="UserInfoTestsAnswer" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5428000" />
+    <option name="totallyTimeSpent" value="712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33760685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.31428573" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.11172161" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.31428573" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.11172161" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Exercise2/src/exercise2/Login.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercise1/test/CoffeeMakerTests.java" />
-    <entry file="file://$PROJECT_DIR$/Exercise1/src/exercise1/src/CoffeeMaker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/CoffeeGrinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../3-fake-mock-stub/gradle/src/test/java/MockExerciseTests/CoffeeMakerTests.java" />
-    <entry file="file://$PROJECT_DIR$/Exercise1/src/exercise1/test/CoffeeMakerTestsAnswer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/CoffeeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Exercise1Test/CoffeeMakerTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" selection-end-line="53" />
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise1/src/exercise1/test/CoffeeMakerTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise1/src/exercise1/src/CoffeeGrinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise2/src/exercise2/UserValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise2/src/test/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise2/src/exercise2/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise2/src/test/LoginTestAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/IRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/UserInfoTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/UserInfoTestsAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/exercise3/UserInfoGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepositoryAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3/src/test/FakeUserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fake-mock-stub.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -575,11 +421,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Exercise1</last-edited>
+          <last-edited>test|fake-mock-stub</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -599,7 +446,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: Arquillian JUnit:Release</last-edited>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

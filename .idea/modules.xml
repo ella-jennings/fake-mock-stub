@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Exercise1/Exercise1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Exercise2/Exercise2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Exercise3/Exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/fake-mock-stub.iml" filepath="$PROJECT_DIR$/fake-mock-stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fake-mock-stub.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fake-mock-stub.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fake-mock-stub.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fake-mock-stub.test.iml" />
     </modules>
   </component>
 </project>
